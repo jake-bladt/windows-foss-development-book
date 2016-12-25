@@ -1,1 +1,1 @@
-One challenge all developers have to address is the difference between development and deployment environments. Even wholly within the Microsoft creche, 
+One challenge all developers have to address is the difference between development and deployment environments. Even wholly within the Microsoft creche, .net developers often see slight behavioral differences between how their code runs against the Cassini development webserver on Windows 10 versus IIS on Windows server or even between different versions of Internet Information Server itself.
