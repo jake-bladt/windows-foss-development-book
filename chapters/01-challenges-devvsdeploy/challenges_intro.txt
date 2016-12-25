@@ -1,0 +1,1 @@
+One challenge all developers have to address is the difference between development and deployment environments. Even wholly within the Microsoft creche, 
