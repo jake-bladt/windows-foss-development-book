@@ -1,0 +1,1 @@
+UEFI vs BIOS and the problems caused with dual-booting.
